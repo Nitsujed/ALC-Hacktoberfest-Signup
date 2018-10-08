@@ -1,5 +1,5 @@
 $.get(
-  'https://github.com/Nitsujed/ALC-Hacktoberfest-Signup/README.md',
+  'https://nitsujed.github.io/ALC-Hacktoberfest-Signup/README.md',
 
   function(file) {
     const census_md = file.split('### Census')[1].split('\n');
