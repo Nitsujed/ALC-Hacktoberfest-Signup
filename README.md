@@ -12,7 +12,6 @@ Fork this project and add your username + profile link to the [Signup](https://g
 
 ```markdown
 [Justin Danner](https://github.com/nitsujed)
-[Long Le](https://github.com/longble)
 ```
 
 ### Census
@@ -23,3 +22,4 @@ Fork this project and add your username + profile link to the [Signup](https://g
  - [Laura moore](https://github.com/lauramoore)
  - [Jeffrey Norris](https://github.com/jeffreydn1161)
  - [Alex Dykstra](https://github.com/sircodesalittle)
+ - [Sameer Sahlot](https://github.com/catchmesam)
