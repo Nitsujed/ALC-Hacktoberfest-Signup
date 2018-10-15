@@ -26,5 +26,6 @@ Fork this project and add your username + profile link to the [Signup](https://g
  - [Laura moore](https://github.com/lauramoore)
  - [Jeffrey Norris](https://github.com/jeffreydn1161)
  - [Alex Dykstra](https://github.com/sircodesalittle)
- - [Bryan Healy](https://github.com/BryanJHealy)
  - [Sameer Sahlot](https://github.com/catchmesam)
+ - [Aaron Shaw](https://github.com/aaronshaw01)
+ - [Bryan Healy](https://github.com/BryanJHealy)
