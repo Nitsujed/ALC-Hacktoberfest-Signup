@@ -32,3 +32,4 @@ Fork this project and add your username + profile link to the [Signup](https://g
  - [Sameer Sahlot](https://github.com/catchmesam)
  - [Aaron Shaw](https://github.com/aaronshaw01)
  - [Bryan Healy](https://github.com/BryanJHealy)
+ - [Wael Thabet](https://github.com/wthabet)
