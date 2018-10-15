@@ -16,4 +16,9 @@ Fork this project and add your username + profile link to the [Signup](https://g
 
 ### Census
  - [Justin Danner](https://github.com/nitsujed)
+
  - [Sameer Sahlot](https://github.com/catchmesam)
+
+ - [Jeffrey Norris](https://github.com/jeffreydn1161)
+ - [Alex Dykstra](https://github.com/sircodesalittle)
+
