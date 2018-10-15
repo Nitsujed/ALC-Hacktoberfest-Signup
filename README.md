@@ -16,6 +16,7 @@ Fork this project and add your username + profile link to the [Signup](https://g
 
 ### Census
  - [Justin Danner](https://github.com/nitsujed)
+ - [Austin Anderson](https://github.com/andersona151)
  - [John Murph](https://github.com/jmurph)
  - [Torey Mercurio](https://github.com/mtmercurio)
  - [Don Young](https://github.com/dyoungalc)
@@ -27,4 +28,5 @@ Fork this project and add your username + profile link to the [Signup](https://g
  - [Jeffrey Norris](https://github.com/jeffreydn1161)
  - [Alex Dykstra](https://github.com/sircodesalittle)
  - [Sameer Sahlot](https://github.com/catchmesam)
+ - [Aaron Shaw](https://github.com/aaronshaw01)
  - [Bryan Healy](https://github.com/BryanJHealy)
