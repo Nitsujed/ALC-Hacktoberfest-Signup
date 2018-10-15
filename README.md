@@ -16,6 +16,7 @@ Fork this project and add your username + profile link to the [Signup](https://g
 
 ### Census
  - [Justin Danner](https://github.com/nitsujed)
+ - [Charles Marsala](https://github.com/cmarsala91)
  - [Laura moore](https://github.com/lauramoore)
  - [Jeffrey Norris](https://github.com/jeffreydn1161)
  - [Alex Dykstra](https://github.com/sircodesalittle)
