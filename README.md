@@ -16,3 +16,4 @@ Fork this project and add your username + profile link to the [Signup](https://g
 
 ### Census
  - [Justin Danner](https://github.com/nitsujed)
+ - [Wael Thabet](https://github.com/wthabet)
