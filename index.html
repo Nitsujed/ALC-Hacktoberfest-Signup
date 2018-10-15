@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <link rel="shortcut icon" type="image/ico" href="./favicon.ico"/>
     <title>Hacktoberfest Signup</title>
     <link rel="icon" href="https://nitsujed.github.io/ALC-Hacktoberfest-Signup/img/favicon.png">
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"
@@ -8,19 +9,39 @@
             crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Josefin+Sans">
     <meta name="viewport" content="width=device-width">
-    <script src="https://nitsujed.github.io/ALC-Hacktoberfest-Signup/js/get_signup.js"></script>
-    <link rel="stylesheet" href="https://nitsujed.github.io/ALC-Hacktoberfest-Signup/css/style.css">
+    <script src="./js/get_signup.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.css">
   </head>
   <body>
-    <div class="fill top">
-      <img src="https://nitsujed.github.io/ALC-Hacktoberfest-Signup/img/HackALC.png" alt="Center banner" class="center banner">
-      <p class="center repo-desc"> A signup for those participating in ALC's <a href="https://hacktoberfest.digitalocean.com/">#Hacktoberfest</a> </p><br />
-      <a class="center repo-link" href="https://github.com/Nitsujed/ALC-Hacktoberfest-Signup"> Instructions </a>
-    </div>
-
-    <div class="fill bottom">
-      <h1 class="center census-title" id="census-count"></h1>
-      <ul id="census-list"></ul>
-    </div>
+    <section class="hero is-dark">
+      <div class="hero-body">
+        <div class="container">
+          <div class="columns is-mobile">
+            <div class="column is-half is-offset-one-quarter">
+                <figure class="image is-4x3">
+                  <img src="./img/alc_hacktoberfest.png">
+                </figure>
+            </div>
+          </div>
+          <h1 class="title has-text-centered">
+            Hacktoberfest Signup
+          </h1>
+          <h2 class="subtitle has-text-centered">
+              A signup for those participating in ALC's <a href="https://hacktoberfest.digitalocean.com/">#Hacktoberfest</a>
+          </h2>
+          <div class="columns">
+              <div class="column is-half is-offset-one-quarter">
+                <a class="button is-link is-large is-fullwidth" href="https://github.com/Nitsujed/ALC-Hacktoberfest-Signup">Instructions</a>
+              </div>
+            </div>
+        </div>
+      </div>
+    </section>
+    <section>
+      <div class="container">
+          <h1 class="title has-text-centered" id="census-count"></h1>
+          <div class="tags" id="census-list"></div>
+      </div>
+    </section>
   </body>
 </html>
