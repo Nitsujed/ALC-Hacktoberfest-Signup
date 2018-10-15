@@ -12,7 +12,6 @@ Fork this project and add your username + profile link to the [Signup](https://g
 
 ```markdown
 [Justin Danner](https://github.com/nitsujed)
-[Bryan Healy](https://github.com/BryanJHealy)
 ```
 
 ### Census
