@@ -12,8 +12,8 @@ Fork this project and add your username + profile link to the [Signup](https://g
 
 ```markdown
 [Justin Danner](https://github.com/nitsujed)
-[Aaron Shaw] (https://github.com/aaronshaw01)
 ```
 
 ### Census
  - [Justin Danner](https://github.com/nitsujed)
+ - [Aaron Shaw](https://github.com/aaronshaw01)
