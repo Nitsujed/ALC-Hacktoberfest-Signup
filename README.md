@@ -27,6 +27,7 @@ Fork this project and add your username + profile link to the [Signup](https://g
  - [Long Le](https://github.com/longble)
  - [Charles Marsala](https://github.com/cmarsala91)
  - [Laura moore](https://github.com/lauramoore)
+ - [Alek Francescangeli](https://github.com/antisage)
  - [Jeffrey Norris](https://github.com/jeffreydn1161)
  - [Alex Dykstra](https://github.com/sircodesalittle)
  - [Sameer Sahlot](https://github.com/catchmesam)
