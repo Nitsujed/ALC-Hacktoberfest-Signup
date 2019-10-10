@@ -3,7 +3,7 @@
 A signup for those participating in ALC Hacktoberfest
 
 ---
-![Hacktoberfest-Signup](img/hacktoberfest-2019.png "Hacktoberfest-Signup")
+![Hacktoberfest-Signup](img/hacktoberfest-2019.PNG "Hacktoberfest-Signup")
 ---
 
 
